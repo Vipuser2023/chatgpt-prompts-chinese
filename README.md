@@ -25,6 +25,8 @@
 Name：chatgpt-prompts-chinese
 
 Path：https://github.com/Vipuser2023/chatgpt-prompts-chinese/blob/main/prompts-zh.csv
+
+或
 Path：https://github.com/Vipuser2023/chatgpt-prompts-chinese/blob/main/prompts-zh.json
 
 **五、提示**
