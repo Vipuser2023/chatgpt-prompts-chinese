@@ -16,11 +16,18 @@
 1. 对标awesome-chatgpt-prompts的部分，使用命令为英文命令后加_zh。例如：linux_terminal中文提示命令为：/linux_terminal_zh；
 2. 独创的部分使用命令一般是中文拼音首字母。例如：写作导师的命令为：/xzds
 
-**四、推荐使用方式：**
+**四、使用方式：**
 
-1. 安装ChatGPT桌面应用程序，支持macOS / Windows / Linux
-2. 下载地址：https://github.com/lencx/ChatGPT
-3. 安装完成后，在Preferences 中的 Control Center，添加Language Model 的Sync Prompts。
+1. 下载cvs表格或excel表格保存，查找相应Prompts复制后直接输入ChatGPT；
+
+下载地址：https://github.com/lencx/ChatGPT
+
+
+2. 可安装ChatGPT桌面应用程序，支持macOS / Windows / Linux
+
+下载地址：https://github.com/lencx/ChatGPT
+
+安装完成后，在Preferences 中的 Control Center，添加Language Model 的Sync Prompts。
 
 Name：chatgpt-prompts-chinese
 
