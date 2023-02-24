@@ -18,23 +18,24 @@
 
 **四、使用方式：**
 
-1. 下载cvs表格或excel表格保存，查找相应Prompts复制后直接输入ChatGPT；
+1. 下载excel表格保存在本地
 
-下载地址：https://github.com/lencx/ChatGPT
+        下载地址：https://github.com/Vipuser2023/chatgpt-prompts-chinese/blob/main/prompts-zh.xlsx
+
+        查找相应Prompts复制后直接输入ChatGPT
 
 
 2. 可安装ChatGPT桌面应用程序，支持macOS / Windows / Linux
 
-下载地址：https://github.com/lencx/ChatGPT
+        下载地址：https://github.com/lencx/ChatGPT
 
-安装完成后，在Preferences 中的 Control Center，添加Language Model 的Sync Prompts。
+        安装完成后，在Preferences 中的 Control Center，添加Language Model 的Sync Prompts。
 
-Name：chatgpt-prompts-chinese
+        Name：chatgpt-prompts-chinese
 
-Path：https://github.com/Vipuser2023/chatgpt-prompts-chinese/blob/main/prompts-zh.csv
+        Path：https://github.com/Vipuser2023/chatgpt-prompts-chinese/blob/main/prompts-zh.csv
 
-或
-Path：https://github.com/Vipuser2023/chatgpt-prompts-chinese/blob/main/prompts-zh.json
+        或Path：https://github.com/Vipuser2023/chatgpt-prompts-chinese/blob/main/prompts-zh.json
 
 **五、提示**
 如想使用英文原版的awesome-chatgpt-prompts 
