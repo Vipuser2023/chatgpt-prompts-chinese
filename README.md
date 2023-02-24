@@ -22,7 +22,7 @@
 
        下载地址：https://github.com/Vipuser2023/chatgpt-prompts-chinese/blob/main/prompts-zh.xlsx
 
-       查找相应Prompts复制后直接输入ChatGPT
+       查找相应的中文Prompts复制后直接输入ChatGPT
 
 
 2. 可安装ChatGPT桌面应用程序，支持macOS / Windows / Linux
