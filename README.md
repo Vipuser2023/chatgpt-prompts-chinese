@@ -25,14 +25,14 @@
 
 1. 下载excel表格保存在本地
 
-       下载地址：https://github.com/Vipuser2023/chatgpt-prompts-chinese/blob/main/prompts-zh.xlsx
+下载地址：https://github.com/Vipuser2023/chatgpt-prompts-chinese/blob/main/prompts-zh.xlsx
 
        查找相应的中文Prompts复制后直接输入ChatGPT
 
 
 2. 可安装ChatGPT桌面应用程序，支持macOS / Windows / Linux
 
-       下载地址：https://github.com/lencx/ChatGPT
+下载地址：https://github.com/lencx/ChatGPT
 
        安装完成后，在Preferences 中的 Control Center，添加Language Model 的Sync Prompts。
 
