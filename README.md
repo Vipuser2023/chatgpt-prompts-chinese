@@ -13,9 +13,13 @@
 
 **三、命令操作方式：**
 
-       对标awesome-chatgpt-prompts的部分，使用命令为英文命令后加_zh。例如：linux_terminal中文提示命令为：/linux_terminal_zh；
+       1. 对标awesome-chatgpt-prompts的部分，命令格式为英文命令后加_zh
+       
+       例如：linux_terminal中文提示命令为：/linux_terminal_zh
 
-       独创的部分使用命令一般是中文拼音首字母。例如：写作导师的命令为：/xzds
+       2. 独创的中文命令，格式一般为中文拼音首字母
+       
+       例如：写作导师的命令为：/xzds
 
 **四、使用方式：**
 
