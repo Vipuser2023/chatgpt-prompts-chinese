@@ -10,8 +10,8 @@
 
 **二、内容介绍**
 
-1.对标awesome-chatgpt-prompts的部分，将不定期对英文版命令进行翻译。
-2.独创的中文命令，这部分将精选收集中文领域好用的命令提示，并根据中文用户的使用需求和习惯，以及实际效果不断进行提升优化。
+1. 对标awesome-chatgpt-prompts的部分，将不定期对英文版命令进行翻译。
+2. 独创的中文命令，这部分将精选收集中文领域好用的命令提示，并根据中文用户的使用需求和习惯，以及实际效果不断进行提升优化。
 
 **三、命令操作方式：**
 
@@ -20,9 +20,9 @@
 
 **四、推荐使用方式：**
 
-1.安装ChatGPT桌面应用程序，支持macOS / Windows / Linux
-2.下载地址：https://github.com/lencx/ChatGPT
-3.安装完成后，在Preferences 中的 Control Center，添加Language Model 的Sync Prompts。
+1. 安装ChatGPT桌面应用程序，支持macOS / Windows / Linux
+2. 下载地址：https://github.com/lencx/ChatGPT
+3. 安装完成后，在Preferences 中的 Control Center，添加Language Model 的Sync Prompts。
 
 Name：chatgpt-prompts-chinese
 
