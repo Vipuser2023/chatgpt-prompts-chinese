@@ -1,6 +1,6 @@
 # ChatGPT 中文提示命令精选（Chatgpt Prompts in Chinese）
 
-## **一、项目简介**
+## 一、项目简介
 
 ### 1. 项目口号
   极好的ChatGPT 中文提示命令，打造中文版的awesome-chatgpt-prompts
@@ -9,9 +9,9 @@
 ### 3. 联系方式
   Email：vipuser2000@qq.com，欢迎各位大神参与建设或提供建议！
 
-【【!!!独创的Prompts内容请直接跳转看第六部分!!!】】
+【【!!!独创的Prompts内容请直接跳转看第六部分!!!】】require"六、独创的中文Prompts"
 
-## **二、内容介绍**
+## 二、内容介绍
 
 ### 1. 对标awesome-chatgpt-prompts的部分
   这部分将不定期对英文版命令进行翻译、修正和更新。
@@ -20,7 +20,7 @@
   
   【熟悉Prompts的请直接跳转看第六部分】
 
-## **三、操作命令**
+## 三、操作命令
 
 #### 1. 对标awesome-chatgpt-prompts的部分，命令格式为英文命令后加_zh
        
@@ -30,7 +30,7 @@
        
        例如：写作导师的命令为：/xzds
 
-## **四、使用方式：**
+## 四、使用方式：
 
 #### 1. 下载excel表格保存在本地
 
@@ -53,13 +53,13 @@
        
  注：目前测试尚未通过，请大神帮忙指正，留言或邮箱：vipuser2000@qq.com
 
-## **五、提示**
+## 五、提示
 
   如想使用英文原版的awesome-chatgpt-prompts 
 
   请访问：https://github.com/f/awesome-chatgpt-prompts
 
-## **六、纯中文自创的Prompts**
+## 六、独创的中文Prompts
 
   由于当前中文的Prompts还在探索中，因此市面上也不多，以下是经过Vipuser几天来密集思考设计和测试的精选的中文Prompts。
 
