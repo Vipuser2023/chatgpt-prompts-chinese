@@ -11,7 +11,7 @@
 
 【【!!!独创的Prompts内容请直接跳转看第六部分!!!】】
 
-       require "## 六、独创的中文Prompts"
+require "## 六、独创的中文Prompts"
 
 ## 二、内容介绍
 
