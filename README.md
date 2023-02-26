@@ -2,9 +2,11 @@
 
 **一、项目简介**
 
-1. 极好的ChatGPT 中文提示命令，打造中文版的awesome-chatgpt-prompts（<font color="#dd000">独创的Prompts内容请直接跳转看第六部分</font>）
+1. 极好的ChatGPT 中文提示命令，打造中文版的awesome-chatgpt-prompts
 2. 本项目致力于为中文用户提供符合中文语言习惯的命令提示，以期充分和深度挖掘ChatGPT在中文环境下的应用潜力
 3. 欢迎各位大神参与建设或提供建议！
+
+!!!独创的Prompts内容请直接跳转看第六部分!!!
 
 **二、内容介绍**
 
