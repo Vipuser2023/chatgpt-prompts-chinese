@@ -179,3 +179,6 @@
     
     请帮我分析和修改这个BUG：
     
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Vipuser2023/chatgpt-prompts-chinese&type=Date)](https://star-history.com/#Vipuser2023/chatgpt-prompts-chinese&Date)
