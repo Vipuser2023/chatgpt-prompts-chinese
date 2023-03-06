@@ -50,8 +50,7 @@
        Json Path：https://raw.githubusercontent.com/Vipuser2023/chatgpt-prompts-chinese/main/prompts-zh.json
 
        或CSV Path：https://raw.githubusercontent.com/Vipuser2023/chatgpt-prompts-chinese/main/prompts-zh.csv
-       
- 注：目前测试尚未通过，请大神帮忙指正，留言或邮箱：vipuser2000@qq.com
+     
 
 ## 五、提示
 
