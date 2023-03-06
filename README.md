@@ -1,4 +1,4 @@
-# ChatGPT 中文提示命令精选（Chatgpt Prompts in Chinese）
+# ChatGPT 中文提示精选（Chatgpt Prompts in Chinese）
 
 ## 一、项目简介
 
