@@ -179,3 +179,4 @@
     
     请帮我分析和修改这个BUG：
     
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX0NxSjhUQVVoMDFRMG5neUltYnFQemtMcEREdEQwcTByUHRIdw==#Vipuser2023/chatgpt-prompts-chinese&Date" frameBorder="0"></iframe>
