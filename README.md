@@ -47,9 +47,9 @@
 
        Name：chatgpt-prompts-chinese
 
-       Path：https://github.com/Vipuser2023/chatgpt-prompts-chinese/blob/main/prompts-zh.csv
+       Json Path：https://raw.githubusercontent.com/Vipuser2023/chatgpt-prompts-chinese/main/prompts-zh.json
 
-       或Path：https://github.com/Vipuser2023/chatgpt-prompts-chinese/blob/main/prompts-zh.json
+       或CSV Path：https://raw.githubusercontent.com/Vipuser2023/chatgpt-prompts-chinese/main/prompts-zh.csv
        
  注：目前测试尚未通过，请大神帮忙指正，留言或邮箱：vipuser2000@qq.com
 
