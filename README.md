@@ -39,7 +39,7 @@
        在Excel表格中查找相应的中文Prompts复制后直接输入ChatGPT 对话框中
 
 
-#### 2. 可安装ChatGPT桌面应用程序，支持macOS / Windows / Linux
+#### 2. 安装ChatGPT桌面应用程序使用，支持macOS / Windows / Linux
 
 下载地址：https://github.com/lencx/ChatGPT
 
